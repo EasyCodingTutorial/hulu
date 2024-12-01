@@ -28,4 +28,4 @@ Follow these steps to get the project up and running on your local machine:
 Contributions are welcome! Feel free to open issues for any bugs, feature requests, or suggestions.
 
 ## Learn By Watching Video ▶️
-[![Watch Demo Video](https://img.youtube.com/vi/4U_0rWB6wgo/maxresdefault.jpg)](https://www.youtube.com/watch?v=4U_0rWB6wgo)
+[![Watch Demo Video](https://img.youtube.com/vi/waaSxLcffqI/maxresdefault.jpg)](https://www.youtube.com/watch?v=waaSxLcffqI)
