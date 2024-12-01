@@ -4,6 +4,8 @@ hulu-clone Using Next.js, TypeScript, React.js in 2024
 ![logo](https://github.com/EasyCodingTutorial/hulu/assets/84335112/c8a2afed-ab33-4123-98af-7825b1375d1b)
 
 
+
+
 This project aims to create a Hulu clone with Next.js 14, utilizing TypeScript for type safety, React.js for building the UI components, React Icons for iconography, and other libraries as needed.
 
 ## Technologies Used
